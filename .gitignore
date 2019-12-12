@@ -1,0 +1,36 @@
+.idea
+.DS_Store
+
+# We always ignore .env
+.env
+
+# System folder for caches, etc.
+.etmp
+.cache
+.temp
+
+# System folder for VSCode local history plugin
+.history
+#.vscode
+
+dist
+node_modules
+
+coverage
+.nyc_output
+.docker
+
+reports
+npm-debug.log
+deployments.log
+yarn-error.log
+package-lock.json
+lerna-debug.log
+.prettierrc
+systemjs.config.js
+
+packages/box/.storybook/
+packages/box/.empt
+packages/core/lib
+packages/core/stats.html
+
