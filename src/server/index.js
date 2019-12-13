@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-filename-extension */
 import React from 'react';
 import { renderToString } from 'react-dom/server';
 import cors from 'cors';

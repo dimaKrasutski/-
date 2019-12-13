@@ -84,6 +84,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_express__ = __webpack_require__(4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_express___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_express__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__shared_App__ = __webpack_require__(5);
+/* eslint-disable react/jsx-filename-extension */
 
 
 
