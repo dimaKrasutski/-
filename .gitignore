@@ -30,7 +30,4 @@ lerna-debug.log
 systemjs.config.js
 
 packages/box/.storybook/
-packages/box/.empt
-packages/core/lib
-packages/core/stats.html
 
