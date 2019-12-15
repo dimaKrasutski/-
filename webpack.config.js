@@ -1,6 +1,6 @@
-var path = require('path')
-var webpack = require('webpack')
-var nodeExternals = require('webpack-node-externals')
+var path = require('path');
+var webpack = require('webpack');
+var nodeExternals = require('webpack-node-externals');
 
 var browserConfig = {
     entry: './src/browser/index.js',
@@ -26,7 +26,7 @@ var browserConfig = {
             __isBrowser__: "true"
         })
     ]
-}
+};
 
 var serverConfig = {
     entry: './src/server/index.js',
@@ -54,6 +54,6 @@ var serverConfig = {
             __isBrowser__: "false"
         })
     ]
-}
+};
 
 module.exports = [browserConfig, serverConfig];
