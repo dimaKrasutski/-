@@ -1,8 +1,10 @@
 import React from 'react';
 import { Main } from '../components/main';
 
-export default () => (
-  <div>
-    <Main />
-  </div>
-);
+export const App = () => {
+  return (
+    <div>
+      <Main />
+    </div>
+  );
+};
